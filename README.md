@@ -17,6 +17,7 @@ Project Name: E-Commerce Product Gallery
 Project Scope:
 
 The E-Commerce Product Gallery is designed to provide users with a simple and attractive platform to browse products online. Users can view product details, search for products, add items to the shopping cart or wishlist, and explore products through an organized interface. The application is developed using frontend technologies without requiring a backend server or database. In the future, the project can be enhanced by adding user authentication, online payments, order tracking, product reviews, and cloud-based data storage.
+
 Project Description:
 
 The E-Commerce Product Gallery is a frontend web application developed using HTML5, CSS3, and JavaScript. It is designed to simulate a modern online shopping experience by allowing users to browse products, search for items, view product details, add products to the shopping cart, and manage a wishlist through an interactive and user-friendly interface.
